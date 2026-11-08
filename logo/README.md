@@ -1,33 +1,32 @@
 # 로고
 
-최종: **A안 THE GAP v3** — 두 N 사이 틈으로 햇볕이 새어 드는 워드마크.
+대문자 워드마크 **MOTE**, 한 색. 장식(그라데이션·빛 번짐·강조색) 없음.
 
 | 파일 | 용도 |
 |---|---|
-| `byeonnwi_a_gap_v3.svg` / `byeonnwi_main_v3.png` | 메인(어두운 배경, 1600x560) |
-| `byeonnwi_a_gap_light_v3.svg` / `.png` | 밝은 배경 |
-| `byeonnwi_detail_v3.png` | 틈 부분 3배 확대 |
-| `*_v2`, v1(`byeonnwi_main.png`, `byeonnwi_concepts.png`, `b_slice`, `c_sunfleck`) | 이전 시안 |
+| `mote.svg` | 밝은 배경용(잉크 글자, 투명 바탕) |
+| `mote_reverse.svg` | 어두운 배경용(크림 글자, 투명 바탕) |
+| `mote_light.png` / `mote_dark.png` | 미리보기(1600x560, 바탕 포함) |
 
-SVG는 글자를 패스로 변환해 폰트 없이 동일하게 보임.
+SVG는 글자를 패스로 변환해 폰트 없이 똑같이 보임.
 
 ## 컬러
 | 용도 | HEX |
 |---|---|
-| 배경 | `#0B0A09` |
-| 글자 | `#F2EBDD` |
-| 앰버 | `#FF9F1C` |
-| 골드 | `#FFC93C` |
-| 빛 코어 | `#FFF1C1` |
-| 밝은 배경 / 글자 | `#F4EEE3` / `#15120F` |
+| 잉크(글자) | `#15120F` |
+| 크림(밝은 바탕 / 어두운 바탕 위 글자) | `#F4EEE3` / `#F2EBDD` |
 
-## 폰트 (OFL, Google Fonts)
-Anton(워드마크), Noto Sans KR 800(한글 태그라인), Archivo Black·Bebas Neue(이전 시안). `fonts/`에 포함.
+- 노랑·주황 + 검정은 쓰지 않는다(이마트 로고와 비슷해 보임).
+
+## 폰트
+Jost Medium(500), 자간 0.08em. OFL(Google Fonts), `fonts/jost-500.ttf`.
 
 ## 재생성
 ```bash
 cd logo/src
-pip install fonttools brotli
-python gen_v3.py      # SVG 생성 (gen.py 임포트 시 v1 시안도 다시 씀)
-node render_v3.js     # PNG 렌더 (playwright 필요)
+npm i opentype.js@1.3.4
+node gen.mjs   # mote.svg, mote_reverse.svg
 ```
+
+## 이전 시안
+볕뉘(BYEONNWI) 워드마크(A안 THE GAP 등)는 git 기록(`bec0b0e`)에 남아 있다.

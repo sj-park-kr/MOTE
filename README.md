@@ -1,15 +1,15 @@
-# 볕뉘 (Byeonnwi)
+# MOTE (모트)
 
-> 작은 틈으로 잠깐 비치는 햇볕.
+> 햇빛 줄기 속에 떠 있는 먼지 한 톨.
 
-1인 개발자 운영사(개인사업자) **볕뉘**의 브랜드 자료 저장소. 영문 브랜드명은 **Sunfleck**.
+1인 개발자 운영사(개인사업자) **MOTE**의 브랜드 자료 저장소.
 
 | 폴더 | 내용 |
 |---|---|
 | [`naming/`](naming/) | 상호 조사·결정 기록, 개인사업자 등록 메모 |
 | [`logo/`](logo/) | 워드마크 로고(SVG/PNG)와 생성 스크립트 |
 
-![BYEONNWI](logo/byeonnwi_main_v3.png)
+![MOTE](logo/mote_light.png)
 
 ## 서비스
 - [SleepingGiant](https://sleeping-giant-kr.com) — 잠자던 흑자 대형주 스크리닝

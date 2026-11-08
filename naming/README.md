@@ -3,16 +3,19 @@
 ## 결정
 | 항목 | 값 |
 |---|---|
-| 상호(사업자등록) | **볕뉘(Byeonnwi)** |
-| 영문 브랜드 | **Sunfleck** |
-| 의미 | 작은 틈으로 잠깐 비치는 햇볕 / 그늘진 곳에 미치는 작은 혜택 (순우리말) |
+| 상호(사업자등록) | **모트(MOTE)** |
+| 영문 브랜드 | **MOTE** (로고는 대문자) |
+| 의미 | 햇빛 줄기 속에 떠 있는 먼지 한 톨 (영어 mote). 작은 1인 회사 |
 
 ## 표기·발음
-- 표준 발음 [변뉘] (ㅌ→ㄷ→ㄴ 비음화) → 국어원 로마자 표기 **Byeonnwi**. `Byeotnwi`는 철자 전사라 발음과 다름.
-- 영어권은 Byeonnwi를 "비-온-위"로 읽기 쉬움. 원음에 가까운 비표준 표기는 `Byunwi`.
-- 상호등기 시 괄호 안 로마자는 한글 발음과 일치해야 하므로 `볕뉘(Byeonnwi)`가 안전.
-- 영문 대응어 Sunfleck: 숲 그늘에 틈으로 드는 햇빛 조각(생태학 용어). 동명 유명 앱 미발견.
-  - 제외: Glimmer·Sunbeam·Glint(동명 앱·회사 다수), Komorebi(일본어), Chink of light(비하어 포함, 사용 금지).
+- 한글 `모트`, 영문 `MOTE`. 영어 발음 [moʊt]과 한글 표기가 같아 상호등기 괄호 병기 `모트(MOTE)`에 문제 없음.
+- 4글자, 영어권·한국어권 모두 읽는 법이 하나뿐.
+- 바꾼 이유(볕뉘 → MOTE): 볕뉘의 로마자 `Byeonnwi`는 한국인·외국인 모두 읽기 어렵고, 표기도 `Byeotnwi`와 갈렸음. 볕뉘·Sunfleck의 "틈으로 드는 작은 빛" 이야기는 MOTE의 뜻으로 이어짐.
+
+## 같은·비슷한 이름 (2026-11 웹 검색)
+- 미국 **Mote**(mote technologies): 음성 메시지 크롬 확장, 2021년 $2M 투자. 소프트웨어(9·42류)라 **해외 상표에서 충돌 가능성 높음**. 그쪽은 소문자 `mote`.
+- 한국 **모트모트(motemote)**: 문구 브랜드, 업종 다름.
+- 국내 KIPRIS·도메인은 미확인.
 
 ## 개인사업자 상호 규칙
 - '주식회사', '(주)', 'Inc.', 'Corp.' 등 법인 오인 표시 불가.
@@ -22,7 +25,7 @@
 - 상호 ≠ 상표. 은행·세금계산서·계약서는 사업자등록증 상호와 글자까지 동일하게.
 
 ## 상표 체크리스트
-- [ ] KIPRIS에서 `볕뉘`, `BYEONNWI`, `SUNFLECK`, 유사 발음 검색 — 9류(앱), 42류(SW), 35류, 36류(금융정보: SleepingGiant)
+- [ ] KIPRIS에서 `모트`, `MOTE`, 유사 발음(`모우트`, `MOAT`) 검색 — 9류(앱), 42류(SW), 35류, 36류(금융정보: SleepingGiant)
 - [ ] 인터넷등기소 관할 동일 상호 조회
 - [ ] 도메인·SNS 핸들 확보
 - [ ] 국내만: 한글+영문 결합 1건 / 해외 계획: 한·영 각각 출원
@@ -33,6 +36,11 @@
 
 **2차 (우아한형제들식 '태도 + 집단')**: 다정한괴짜들(Kind Misfits), 진지한장난꾼들, 작은반란군, 고집센장인들, 밤새는몽상가들, 엉뚱한일꾼들, 도담한꾼들
 제외: '~사람들'·'~청년들' 계열(포화), 무모한원정대·대담한작당(부정 뉘앙스), 너울꾼들·미쁜일꾼들(의미 전달 약함)
+
+**3차 결정 → 변경**: 볕뉘(Byeonnwi) + 영문 Sunfleck으로 정했다가, 로마자 표기 문제로 MOTE로 바꿈.
+
+**4차 (Google·Apple식 짧은 영어 이름, 틈으로 드는 빛)**: **Mote**, Pinhole, Ajar, Dapple, Oriel, Glim, Flek
+제외: Ajar(한국식 발음 '아자르'가 영상채팅 앱 Azar와 겹침), Dapple(Apple 패러디처럼 보임), Lumo(Proton AI), Oculus(Meta), Lumen·Halo·Prism·Ray(흔함)
 
 ## 참고 사례
 | 회사 | 유래 |
@@ -48,3 +56,5 @@
 - [한글·영어 상표등록 - 헬프미](https://www.help-me.kr/blog/article/%ED%95%9C%EA%B8%80_%EC%98%81%EC%96%B4_%EC%83%81%ED%91%9C%EB%93%B1%EB%A1%9D_%EA%BF%80%ED%8C%81/)
 - [당근 이름 유래 - SBS Biz](https://biz.sbs.co.kr/amp/article/20000081751)
 - [37signals - Wikipedia](https://en.wikipedia.org/wiki/37signals)
+- [mote technologies - Wellfound](https://wellfound.com/company/mote-technologies)
+- [모트모트 - THE VC](https://thevc.kr/motemote)
